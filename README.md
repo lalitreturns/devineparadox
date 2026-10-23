@@ -16,14 +16,6 @@
 
 <br>
 
-### ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
-
-<a href="https://github.com/devineparadox/github-readme-activity-graph">
-  <img alt="User Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=devineparadox&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
-</a>
-
-
-
 ### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
 
 - [![telegram](https://img.shields.io/badge/DevineParadox-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/TheHonoredSoul)
